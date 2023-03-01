@@ -1,0 +1,41 @@
+body{
+    background-color: black;
+}
+#obwod{
+    background-color: gold;
+    width: 600px;
+    height: 800px;
+    
+}
+#tlo{
+    background-color: black;
+    width: 480px;
+    height: 640px;
+    padding: 7%;
+    padding-top: 14%;
+    
+}
+#kd{
+    color: #cc9a32;
+    margin-top: -60px;
+    -webkit-text-stroke: 2.25px #9A6800 ;
+}
+#kdl{
+    margin-top: -120px;
+    
+}
+#wheel{
+    margin-top: -20px;
+    width: 350px;
+    height: 450px;
+    text-align: center;
+    justify-content: center;
+}
+#lgr{
+color: blue;
+margin-top: -30px;
+}
+#lgb{
+color: red;
+margin-top: -25px;
+}
